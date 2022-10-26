@@ -1,0 +1,41 @@
+h1 {
+    font-family:serif;
+    text-align: center;
+    padding-top: 60px;
+    color:sienna
+}
+
+table {
+    margin: 0 auto;
+    font-family: sans-serif;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: #ece9e0;
+    color: #656669;
+    border: 16px solid #ece9e0;
+    border-radius: 20px;
+}
+
+th {
+    font-size: 25px;
+    padding: 17px;
+}
+
+td {
+    background: whitesmoke;
+    padding: 15px;
+    font-size: 25px;
+    text-align: center;
+}
+
+p {
+    font-family:fantasy;
+    text-align: center;
+    font-size: 40px;
+    color: #656669;
+}
+
+span {
+    color: rgb(199, 43, 43);
+}
